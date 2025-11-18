@@ -1,0 +1,1 @@
+C:\Users\hasan\AndroidStudioProjects\MyApplication\BlockPuzzle\android\app\build\intermediates\cxx\Debug\441tt3m2\obj\arm64-v8a

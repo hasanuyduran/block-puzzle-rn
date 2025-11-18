@@ -1,0 +1,17 @@
+# React Native
+node_modules/
+android/.cxx/
+android/app/build/
+ios/Pods/
+*.iml
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Metro
+.expo
+
+# Gradle
+.gradle/
