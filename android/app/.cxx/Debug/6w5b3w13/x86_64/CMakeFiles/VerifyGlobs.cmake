@@ -37,6 +37,56 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "C:/rn/BlockPuzzle/android/app/.cxx/Debug/6w5b3w13/x86_64/CMakeFiles/cmake.verify_globs")
 endif()
 
+# react_codegen_SRCS at C:/rn/BlockPuzzle/node_modules/react-native-gesture-handler/android/build/generated/source/codegen/jni/CMakeLists.txt:9 (file)
+file(GLOB NEW_GLOB LIST_DIRECTORIES true "C:/rn/BlockPuzzle/node_modules/react-native-gesture-handler/android/build/generated/source/codegen/jni/*.cpp")
+set(OLD_GLOB
+  "C:/rn/BlockPuzzle/node_modules/react-native-gesture-handler/android/build/generated/source/codegen/jni/rngesturehandler_codegen-generated.cpp"
+  )
+if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
+  message("-- GLOB mismatch!")
+  file(TOUCH_NOCREATE "C:/rn/BlockPuzzle/android/app/.cxx/Debug/6w5b3w13/x86_64/CMakeFiles/cmake.verify_globs")
+endif()
+
+# react_codegen_SRCS at C:/rn/BlockPuzzle/node_modules/react-native-gesture-handler/android/build/generated/source/codegen/jni/CMakeLists.txt:9 (file)
+file(GLOB NEW_GLOB LIST_DIRECTORIES true "C:/rn/BlockPuzzle/node_modules/react-native-gesture-handler/android/build/generated/source/codegen/jni/react/renderer/components/rngesturehandler_codegen/*.cpp")
+set(OLD_GLOB
+  "C:/rn/BlockPuzzle/node_modules/react-native-gesture-handler/android/build/generated/source/codegen/jni/react/renderer/components/rngesturehandler_codegen/ComponentDescriptors.cpp"
+  "C:/rn/BlockPuzzle/node_modules/react-native-gesture-handler/android/build/generated/source/codegen/jni/react/renderer/components/rngesturehandler_codegen/EventEmitters.cpp"
+  "C:/rn/BlockPuzzle/node_modules/react-native-gesture-handler/android/build/generated/source/codegen/jni/react/renderer/components/rngesturehandler_codegen/Props.cpp"
+  "C:/rn/BlockPuzzle/node_modules/react-native-gesture-handler/android/build/generated/source/codegen/jni/react/renderer/components/rngesturehandler_codegen/ShadowNodes.cpp"
+  "C:/rn/BlockPuzzle/node_modules/react-native-gesture-handler/android/build/generated/source/codegen/jni/react/renderer/components/rngesturehandler_codegen/States.cpp"
+  "C:/rn/BlockPuzzle/node_modules/react-native-gesture-handler/android/build/generated/source/codegen/jni/react/renderer/components/rngesturehandler_codegen/rngesturehandler_codegenJSI-generated.cpp"
+  )
+if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
+  message("-- GLOB mismatch!")
+  file(TOUCH_NOCREATE "C:/rn/BlockPuzzle/android/app/.cxx/Debug/6w5b3w13/x86_64/CMakeFiles/cmake.verify_globs")
+endif()
+
+# react_codegen_SRCS at C:/rn/BlockPuzzle/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/CMakeLists.txt:9 (file)
+file(GLOB NEW_GLOB LIST_DIRECTORIES true "C:/rn/BlockPuzzle/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/*.cpp")
+set(OLD_GLOB
+  "C:/rn/BlockPuzzle/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/rnreanimated-generated.cpp"
+  )
+if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
+  message("-- GLOB mismatch!")
+  file(TOUCH_NOCREATE "C:/rn/BlockPuzzle/android/app/.cxx/Debug/6w5b3w13/x86_64/CMakeFiles/cmake.verify_globs")
+endif()
+
+# react_codegen_SRCS at C:/rn/BlockPuzzle/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/CMakeLists.txt:9 (file)
+file(GLOB NEW_GLOB LIST_DIRECTORIES true "C:/rn/BlockPuzzle/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/react/renderer/components/rnreanimated/*.cpp")
+set(OLD_GLOB
+  "C:/rn/BlockPuzzle/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/react/renderer/components/rnreanimated/ComponentDescriptors.cpp"
+  "C:/rn/BlockPuzzle/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/react/renderer/components/rnreanimated/EventEmitters.cpp"
+  "C:/rn/BlockPuzzle/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/react/renderer/components/rnreanimated/Props.cpp"
+  "C:/rn/BlockPuzzle/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/react/renderer/components/rnreanimated/ShadowNodes.cpp"
+  "C:/rn/BlockPuzzle/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/react/renderer/components/rnreanimated/States.cpp"
+  "C:/rn/BlockPuzzle/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/react/renderer/components/rnreanimated/rnreanimatedJSI-generated.cpp"
+  )
+if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
+  message("-- GLOB mismatch!")
+  file(TOUCH_NOCREATE "C:/rn/BlockPuzzle/android/app/.cxx/Debug/6w5b3w13/x86_64/CMakeFiles/cmake.verify_globs")
+endif()
+
 # LIB_CUSTOM_SRCS at C:/rn/BlockPuzzle/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt:12 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "C:/rn/BlockPuzzle/node_modules/react-native-safe-area-context/android/src/main/jni/*.cpp")
 set(OLD_GLOB
@@ -76,6 +126,62 @@ set(OLD_GLOB
   "C:/rn/BlockPuzzle/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/safeareacontext/ShadowNodes.cpp"
   "C:/rn/BlockPuzzle/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/safeareacontext/States.cpp"
   "C:/rn/BlockPuzzle/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/safeareacontext/safeareacontextJSI-generated.cpp"
+  )
+if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
+  message("-- GLOB mismatch!")
+  file(TOUCH_NOCREATE "C:/rn/BlockPuzzle/android/app/.cxx/Debug/6w5b3w13/x86_64/CMakeFiles/cmake.verify_globs")
+endif()
+
+# LIB_CUSTOM_SRCS at C:/rn/BlockPuzzle/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt:23 (file)
+file(GLOB NEW_GLOB LIST_DIRECTORIES true "C:/rn/BlockPuzzle/node_modules/react-native-screens/android/src/main/jni/*.cpp")
+set(OLD_GLOB
+  "C:/rn/BlockPuzzle/node_modules/react-native-screens/android/src/main/jni/rnscreens.cpp"
+  )
+if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
+  message("-- GLOB mismatch!")
+  file(TOUCH_NOCREATE "C:/rn/BlockPuzzle/android/app/.cxx/Debug/6w5b3w13/x86_64/CMakeFiles/cmake.verify_globs")
+endif()
+
+# LIB_CUSTOM_SRCS at C:/rn/BlockPuzzle/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt:23 (file)
+file(GLOB NEW_GLOB LIST_DIRECTORIES true "C:/rn/BlockPuzzle/node_modules/react-native-screens/android/src/main/jni/../../../../common/cpp/react/renderer/components/rnscreens/*.cpp")
+set(OLD_GLOB
+  "C:/rn/BlockPuzzle/node_modules/react-native-screens/android/src/main/jni/../../../../common/cpp/react/renderer/components/rnscreens/RNSBottomTabsShadowNode.cpp"
+  "C:/rn/BlockPuzzle/node_modules/react-native-screens/android/src/main/jni/../../../../common/cpp/react/renderer/components/rnscreens/RNSBottomTabsState.cpp"
+  "C:/rn/BlockPuzzle/node_modules/react-native-screens/android/src/main/jni/../../../../common/cpp/react/renderer/components/rnscreens/RNSFullWindowOverlayShadowNode.cpp"
+  "C:/rn/BlockPuzzle/node_modules/react-native-screens/android/src/main/jni/../../../../common/cpp/react/renderer/components/rnscreens/RNSModalScreenShadowNode.cpp"
+  "C:/rn/BlockPuzzle/node_modules/react-native-screens/android/src/main/jni/../../../../common/cpp/react/renderer/components/rnscreens/RNSSafeAreaViewShadowNode.cpp"
+  "C:/rn/BlockPuzzle/node_modules/react-native-screens/android/src/main/jni/../../../../common/cpp/react/renderer/components/rnscreens/RNSSafeAreaViewState.cpp"
+  "C:/rn/BlockPuzzle/node_modules/react-native-screens/android/src/main/jni/../../../../common/cpp/react/renderer/components/rnscreens/RNSScreenShadowNode.cpp"
+  "C:/rn/BlockPuzzle/node_modules/react-native-screens/android/src/main/jni/../../../../common/cpp/react/renderer/components/rnscreens/RNSScreenStackHeaderConfigShadowNode.cpp"
+  "C:/rn/BlockPuzzle/node_modules/react-native-screens/android/src/main/jni/../../../../common/cpp/react/renderer/components/rnscreens/RNSScreenStackHeaderConfigState.cpp"
+  "C:/rn/BlockPuzzle/node_modules/react-native-screens/android/src/main/jni/../../../../common/cpp/react/renderer/components/rnscreens/RNSScreenStackHeaderSubviewShadowNode.cpp"
+  "C:/rn/BlockPuzzle/node_modules/react-native-screens/android/src/main/jni/../../../../common/cpp/react/renderer/components/rnscreens/RNSScreenStackHeaderSubviewState.cpp"
+  "C:/rn/BlockPuzzle/node_modules/react-native-screens/android/src/main/jni/../../../../common/cpp/react/renderer/components/rnscreens/RNSScreenState.cpp"
+  "C:/rn/BlockPuzzle/node_modules/react-native-screens/android/src/main/jni/../../../../common/cpp/react/renderer/components/rnscreens/RNSSplitViewScreenShadowNode.cpp"
+  )
+if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
+  message("-- GLOB mismatch!")
+  file(TOUCH_NOCREATE "C:/rn/BlockPuzzle/android/app/.cxx/Debug/6w5b3w13/x86_64/CMakeFiles/cmake.verify_globs")
+endif()
+
+# LIB_CUSTOM_SRCS at C:/rn/BlockPuzzle/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt:23 (file)
+file(GLOB NEW_GLOB LIST_DIRECTORIES true "C:/rn/BlockPuzzle/node_modules/react-native-screens/android/src/main/jni/../../../../common/cpp/react/renderer/components/rnscreens/utils/*.cpp")
+set(OLD_GLOB
+  )
+if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
+  message("-- GLOB mismatch!")
+  file(TOUCH_NOCREATE "C:/rn/BlockPuzzle/android/app/.cxx/Debug/6w5b3w13/x86_64/CMakeFiles/cmake.verify_globs")
+endif()
+
+# LIB_CODEGEN_SRCS at C:/rn/BlockPuzzle/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt:24 (file)
+file(GLOB NEW_GLOB LIST_DIRECTORIES true "C:/rn/BlockPuzzle/node_modules/react-native-screens/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/rnscreens/*.cpp")
+set(OLD_GLOB
+  "C:/rn/BlockPuzzle/node_modules/react-native-screens/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/rnscreens/ComponentDescriptors.cpp"
+  "C:/rn/BlockPuzzle/node_modules/react-native-screens/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp"
+  "C:/rn/BlockPuzzle/node_modules/react-native-screens/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/rnscreens/Props.cpp"
+  "C:/rn/BlockPuzzle/node_modules/react-native-screens/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/rnscreens/ShadowNodes.cpp"
+  "C:/rn/BlockPuzzle/node_modules/react-native-screens/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/rnscreens/States.cpp"
+  "C:/rn/BlockPuzzle/node_modules/react-native-screens/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/rnscreens/rnscreensJSI-generated.cpp"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")
